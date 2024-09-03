@@ -25,4 +25,5 @@ Descrição: Identifica e exibe o funcionário com o maior salário líquido da 
 ### 6. Maior Número de Faltas
 Descrição: Identifica e exibe o funcionário com o maior número de faltas registradas.
 
-## LINGUAGEM USADA: 
+## LINGUAGEM USADA: <img align="center" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+
